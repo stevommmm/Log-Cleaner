@@ -47,7 +47,7 @@
 /home/phil/servers/c_logs/server-05-18-2011-03:27:07.log:2011-05-18 03:14:13 [INFO] ZeHaxor:/lwc
 /home/phil/servers/c_logs/server-05-18-2011-15:22:37.log:2011-05-18 14:13:19 [INFO] xxBlackAngelxx:/lwc
 /home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:56:28 [INFO] <TheShinyHobbiest> Hello.
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 16:02:40 [INFO] <seamore555> hello yes i'm looking for the yellow subway line
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 16:02:40 [INFO] <seamore555> hello yes i'm looking for the yellow subway line 
 /home/phil/servers/c_logs/server-01-26-2011-19:36:41.log:2011-01-26 18:07:49 [INFO] <cleb> hello reddit
 /home/phil/servers/c_logs/server-01-26-2011-19:36:41.log:2011-01-26 18:36:24 [INFO] Fiestainabox tried command: pm fiestainabox hello world
 /home/phil/servers/c_logs/server-01-26-2011-19:36:41.log:2011-01-26 19:31:03 [INFO] <nippy333> hello. I are new here

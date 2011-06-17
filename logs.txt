@@ -95,5 +95,5 @@
 /home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:22 [INFO] TheShinyHobbiest [/174.29.61.210:49774] logged in with entity id 1123
 /home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:22 [INFO] rickfrothingham [/127.0.0.1:25442] logged in with entity id 1203
 /home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:28 [INFO] seamore555 [/74.13.119.15:52714] logged in with entity id 1335
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:28 [INFO] Sninja13 [/174.60.117.52:49415] logged in with entity id 1336
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:28 [INFO] Sninja13 [/174.60.117.52:49415] logged in with entity id 1336 
 /home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:42:01 [INFO] <Kooothor> hello
