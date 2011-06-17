@@ -7,6 +7,8 @@
 # Usage: perl Log-Cleaner.pl [logfile] 
 #
 # Stephen McGregor (c45y) 17/06/2011
+#
+
 $RESOURCE = $ARGV[0];
 open DATA, "$RESOURCE" or die "can't open $RESOURCE $!";
 $outfile = $RESOURCE;
