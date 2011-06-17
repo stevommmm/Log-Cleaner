@@ -7,15 +7,14 @@
 # Usage: perl Log-Cleaner.pl [logfile] 
 #
 # Stephen McGregor (c45y) 17/06/2011
-
-print "Content-type: text/html\n\n";
-$RESOURCE = 'C:\Users\c45y\Git\Log-Cleaner\logs.txt';
+$RESOURCE = $ARGV[0];
 open DATA, "$RESOURCE" or die "can't open $RESOURCE $!";
 $outfile = $RESOURCE;
 my @loglist = <DATA>;
 close (DATA);
 $outfile =~ /(.+)(\.)(.+)/;
 open (OUT, ">> $1clean$2$3") or die "can't open file $!";
+print "Output: $1clean$2$3\n";
 foreach $string (@loglist) {
 	if ($string =~ m/(\d+)\.(\d+)\.(\d+)\.(\d+)/) {
 		$string =~ s/(\d+)\.(\d+)\.(\d+)\.(\d+)/$1\.$2\.###\.###/;
