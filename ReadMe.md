@@ -1,5 +1,7 @@
 ##Log-Cleaner##
 
+> Usage: perl Log-Cleaner.pl [logfile] 
+
 Generates a 'cleaned' Minecraft log file.
 
 *	LWC passwords are removed
