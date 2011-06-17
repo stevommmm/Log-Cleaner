@@ -1,0 +1,99 @@
+/home/phil/servers/c_logs/server-04-18-2011-17:55:06.log:2011-04-18 14:55:11 [INFO] Backshot tried command: cpassword
+/home/phil/servers/c_logs/server-04-19-2011-14:43:10.log:2011-04-19 13:52:15 [INFO] TyialoTheWeaver tried command: cpassword ###
+/home/phil/servers/c_logs/server-04-19-2011-14:43:10.log:2011-04-19 13:54:15 [INFO] TyialoTheWeaver tried command: cpassword ###
+/home/phil/servers/c_logs/server-04-21-2011-15:51:46.log:2011-04-21 08:37:53 [INFO] cowofjustice tried command: cpassword
+/home/phil/servers/c_logs/server-04-21-2011-15:51:46.log:2011-04-21 14:07:02 [INFO] WiryRocketeer tried command: cpassword ###
+/home/phil/servers/c_logs/server-04-28-2011-10:40:20.log:2011-04-28 08:12:28 [INFO] Backshot tried command: cpassword
+/home/phil/servers/c_logs/server-04-28-2011-10:40:20.log:2011-04-28 08:12:36 [INFO] Backshot tried command: cpassword
+/home/phil/servers/c_logs/server-05-01-2011-16:00:29.log:2011-05-01 15:22:32 [INFO] TommyBhamy:/cpassword ###
+/home/phil/servers/c_logs/server-05-01-2011-16:00:29.log:2011-05-01 15:22:32 [INFO] TommyBhamy tried command: cpassword ###
+/home/phil/servers/c_logs/server-05-01-2011-23:52:02.log:2011-05-01 22:27:30 [INFO] mellowyelow:/cpassword
+/home/phil/servers/c_logs/server-05-01-2011-23:52:02.log:2011-05-01 22:27:30 [INFO] mellowyelow tried command: cpassword
+/home/phil/servers/c_logs/server-05-01-2011-23:52:02.log:2011-05-01 22:27:39 [INFO] mellowyelow:/cpassword ###
+/home/phil/servers/c_logs/server-05-01-2011-23:52:02.log:2011-05-01 22:27:39 [INFO] mellowyelow tried command: cpassword ###
+/home/phil/servers/c_logs/server-05-05-2011-02:24:19.log:2011-05-05 01:20:30 [INFO] edwardblue:/cpassword ###
+/home/phil/servers/c_logs/server-05-05-2011-02:24:19.log:2011-05-05 01:20:30 [INFO] edwardblue tried command: cpassword ###
+/home/phil/servers/c_logs/server-05-09-2011-22:51:56.log:2011-05-09 21:49:49 [INFO] SaxonHale:/cpassword ###
+/home/phil/servers/c_logs/server-05-09-2011-22:51:56.log:2011-05-09 21:49:49 [INFO] SaxonHale tried command: cpassword ###
+/home/phil/servers/c_logs/server-05-15-2011-09:09:27.log:2011-05-15 08:08:22 [INFO] Helyn:/cpassword ###
+/home/phil/servers/c_logs/server-05-15-2011-09:09:27.log:2011-05-15 08:08:22 [INFO] Helyn tried command: cpassword ###
+/home/phil/servers/c_logs/server-05-18-2011-15:22:37.log:2011-05-18 14:13:13 [INFO] xxBlackAngelxx:/cpassword ###
+/home/phil/servers/c_logs/server-05-18-2011-15:22:37.log:2011-05-18 14:13:13 [INFO] xxBlackAngelxx tried command: cpassword ###
+/home/phil/servers/c_logs/server-05-22-2011-09:29:20.log:2011-05-22 09:03:47 [INFO] <lordofwar609> cpassword
+/home/phil/servers/c_logs/server-05-22-2011-09:29:20.log:2011-05-22 09:03:58 [INFO] lordofwar609:/cpassword
+/home/phil/servers/c_logs/server-05-22-2011-09:29:20.log:2011-05-22 09:03:58 [INFO] lordofwar609 tried command: cpassword
+/home/phil/servers/c_logs/server-05-22-2011-09:29:20.log:2011-05-22 09:04:32 [INFO] lordofwar609:/cpassword
+/home/phil/servers/c_logs/server-05-22-2011-09:29:20.log:2011-05-22 09:04:32 [INFO] lordofwar609 tried command: cpassword
+/home/phil/servers/c_logs/server-05-24-2011-10:34:53.log:2011-05-24 09:23:07 [INFO] laney55:/cpassword ###
+/home/phil/servers/c_logs/server-05-24-2011-10:34:53.log:2011-05-24 09:23:07 [INFO] laney55 tried command: cpassword ###
+/home/phil/servers/c_logs/server-05-24-2011-18:30:24.log:2011-05-24 18:24:22 [INFO] Hellcreature1:/cpassword ###
+/home/phil/servers/c_logs/server-05-24-2011-18:30:24.log:2011-05-24 18:24:22 [INFO] Hellcreature1 tried command: cpassword ###
+/home/phil/servers/c_logs/server-05-26-2011-19:19:20.log:2011-05-26 18:34:55 [INFO] lordofwar609:/cpassword
+/home/phil/servers/c_logs/server-05-27-2011-02:59:38.log:2011-05-27 02:21:48 [INFO] pvtkilroyz:/cpassword ###
+/home/phil/servers/c_logs/server-06-08-2011-11:23:36.log:2011-06-08 11:23:32 [INFO] lordofwar609:/cpassword
+/home/phil/servers/c_logs/server-06-08-2011-12:48:13.log:2011-06-08 11:24:14 [INFO] lordofwar609:/cpassword
+/home/phil/servers/c_logs/server-06-12-2011-23:23:58.log:2011-06-12 22:40:48 [INFO] andreassr:/cpassword ###
+/home/phil/servers/c_logs/server-06-13-2011-14:51:53.log:2011-06-13 13:40:33 [INFO] hazza56:/cpassword
+/home/phil/servers/c_logs/server-06-15-2011-20:17:46.log:2011-06-15 19:19:45 [INFO] cwjdog57:/cpassword
+/home/phil/servers/c_logs/server-05-11-2011-10:22:26.log:2011-05-11 09:35:43 [INFO] Brotaoski:/lwc
+/home/phil/servers/c_logs/server-05-14-2011-08:36:11.log:2011-05-14 07:59:00 [INFO] Carlosiscool123:/lwc password
+/home/phil/servers/c_logs/server-05-14-2011-16:17:14.log:2011-05-14 14:52:59 [INFO] KARL27:/lwc -c private @KARL27 @macbookclub
+/home/phil/servers/c_logs/server-05-14-2011-16:17:14.log:2011-05-14 14:54:25 [INFO] KARL27:/lwc -c private @KARL27 @macbookclub g:admins
+/home/phil/servers/c_logs/server-05-14-2011-17:02:17.log:2011-05-14 16:46:05 [INFO] KARL27:/lwc @KARL27
+/home/phil/servers/c_logs/server-05-14-2011-17:02:17.log:2011-05-14 16:48:29 [INFO] KARL27:/lwc @KARL27 macbookclub g. mods KARL27
+/home/phil/servers/c_logs/server-05-14-2011-17:02:17.log:2011-05-14 16:51:08 [INFO] KARL27:/lwc KARL27
+/home/phil/servers/c_logs/server-05-15-2011-18:29:05.log:2011-05-15 18:00:20 [INFO] tcpip4lyfe:/lwc create private
+/home/phil/servers/c_logs/server-05-15-2011-18:29:05.log:2011-05-15 18:00:50 [INFO] tcpip4lyfe:/lwc create private
+/home/phil/servers/c_logs/server-05-18-2011-03:27:07.log:2011-05-18 03:14:13 [INFO] ZeHaxor:/lwc
+/home/phil/servers/c_logs/server-05-18-2011-15:22:37.log:2011-05-18 14:13:19 [INFO] xxBlackAngelxx:/lwc
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:56:28 [INFO] <TheShinyHobbiest> Hello.
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 16:02:40 [INFO] <seamore555> hello yes i'm looking for the yellow subway line
+/home/phil/servers/c_logs/server-01-26-2011-19:36:41.log:2011-01-26 18:07:49 [INFO] <cleb> hello reddit
+/home/phil/servers/c_logs/server-01-26-2011-19:36:41.log:2011-01-26 18:36:24 [INFO] Fiestainabox tried command: pm fiestainabox hello world
+/home/phil/servers/c_logs/server-01-26-2011-19:36:41.log:2011-01-26 19:31:03 [INFO] <nippy333> hello. I are new here
+/home/phil/servers/c_logs/server-01-26-2011-19:36:41.log:2011-01-26 19:31:12 [INFO] <Verros> hello
+/home/phil/servers/c_logs/server-01-26-2011-19:36:41.log:2011-01-26 19:31:15 [INFO] <cleb> hello
+/home/phil/servers/c_logs/server-01-26-2011-22:24:42.log:2011-01-26 19:52:02 [INFO] <Verros> hello,not much
+/home/phil/servers/c_logs/server-01-26-2011-22:24:42.log:2011-01-26 20:54:48 [INFO] <Verros> hello tamurrell
+/home/phil/servers/c_logs/server-01-26-2011-22:24:42.log:2011-01-26 20:56:54 [INFO] <Goron40> Hello wraith
+/home/phil/servers/c_logs/server-01-26-2011-22:24:42.log:2011-01-26 21:10:27 [INFO] <ryanlaing> hello wraithguard
+/home/phil/servers/c_logs/server-01-26-2011-22:24:42.log:2011-01-26 21:21:44 [INFO] <ryanlaing> hello everyone
+/home/phil/servers/c_logs/server-01-27-2011-01:11:46.log:2011-01-26 23:57:07 [INFO] <The_Broken> Holy...  well hello insane world of minecraft
+/home/phil/servers/c_logs/server-01-27-2011-03:59:30.log:2011-01-27 02:16:05 [INFO] <iknownottaken> hello
+/home/phil/servers/c_logs/server-01-27-2011-03:59:30.log:2011-01-27 02:20:48 [INFO] <kyconny> hello?
+/home/phil/servers/c_logs/server-01-27-2011-03:59:30.log:2011-01-27 03:09:10 [INFO] matmannen tried command: warp hello
+/home/phil/servers/c_logs/server-01-27-2011-03:59:30.log:2011-01-27 03:09:26 [INFO] matmannen tried command: warp hello
+/home/phil/servers/c_logs/server-01-27-2011-03:59:30.log:2011-01-27 03:49:53 [INFO] matmannen tried command: warp hello
+/home/phil/servers/c_logs/server-01-27-2011-06:47:21.log:2011-01-27 04:51:44 [INFO] <Macus64> lol hello
+/home/phil/servers/c_logs/server-01-27-2011-06:47:21.log:2011-01-27 04:51:54 [INFO] <NESSUN0> hellouz
+/home/phil/servers/c_logs/server-01-27-2011-06:47:21.log:2011-01-27 05:18:32 [INFO] <NESSUN0> hello solaris
+/home/phil/servers/c_logs/server-01-27-2011-06:47:21.log:2011-01-27 06:02:59 [INFO] <NESSUN0> hello lookin people
+/home/phil/servers/c_logs/server-01-27-2011-06:47:21.log:2011-01-27 06:12:55 [INFO] <NESSUN0> hello people i need some help on a new project
+/home/phil/servers/c_logs/server-01-27-2011-06:47:21.log:2011-01-27 06:25:32 [INFO] <NESSUN0> hello
+/home/phil/servers/c_logs/server-01-27-2011-09:34:52.log:2011-01-27 07:04:25 [INFO] <Jappe2> im people hello
+/home/phil/servers/c_logs/server-01-27-2011-09:34:52.log:2011-01-27 07:24:27 [INFO] <AlLnAtuRalX> hello
+/home/phil/servers/c_logs/server-01-27-2011-09:34:52.log:2011-01-27 07:24:39 [INFO] <NESSUN0> hello
+/home/phil/servers/c_logs/server-01-27-2011-09:34:52.log:2011-01-27 07:43:41 [INFO] <bhoatson> hello people
+/home/phil/servers/c_logs/server-01-27-2011-09:34:52.log:2011-01-27 07:59:19 [INFO] <bhoatson> hello
+/home/phil/servers/c_logs/server-01-27-2011-09:34:52.log:2011-01-27 07:59:29 [INFO] <NESSUN0> hello bhoatson
+/home/phil/servers/c_logs/server-01-27-2011-09:34:52.log:2011-01-27 08:21:25 [INFO] <rob7863> Hello reddit!
+/home/phil/servers/c_logs/server-01-27-2011-09:34:52.log:2011-01-27 08:41:26 [INFO] <golf1052> hello thar
+/home/phil/servers/c_logs/server-01-27-2011-09:34:52.log:2011-01-27 09:13:23 [INFO] <djduane> hello
+/home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 09:51:59 [INFO] <Verros> hello there
+/home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:19:35 [INFO] <Kilczer15> hello
+/home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:19:40 [INFO] <ohblair> hello captslow
+/home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:20:50 [INFO] <ryanlaing> hello
+/home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:32:13 [INFO] <austin1812> hello :)
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:14 [INFO] therealduckie [/184.88.###.###:64842] logged in with entity id 464
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:15 [INFO] Frito_Bandito [/173.62.###.###:58870] logged in with entity id 592
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:15 [INFO] SimplyBarbaric [/150.250.###.###:52639] logged in with entity id 836
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:18 [INFO] Derkek [/68.99.###.###:56964] logged in with entity id 837
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:18 [INFO] jakemates [/68.5.###.###:34981] logged in with entity id 884
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:18 [INFO] golf1052 [/74.97.###.###:53140] logged in with entity id 885
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:21 [INFO] ultrafez [/78.86.###.###:64137] logged in with entity id 973
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:21 [INFO] forty_two [/60.229.###.###:56080] logged in with entity id 1017
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:22 [INFO] TheShinyHobbiest [/174.29.###.###:49774] logged in with entity id 1123
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:22 [INFO] rickfrothingham [/127.0.###.###:25442] logged in with entity id 1203
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:28 [INFO] seamore555 [/74.13.###.###:52714] logged in with entity id 1335
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:28 [INFO] Sninja13 [/174.60.###.###:49415] logged in with entity id 1336
+/home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:42:01 [INFO] <Kooothor> hello
