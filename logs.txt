@@ -97,3 +97,37 @@
 /home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:28 [INFO] seamore555 [/74.13.119.15:52714] logged in with entity id 1335
 /home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:28 [INFO] Sninja13 [/174.60.117.52:49415] logged in with entity id 1336 
 /home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:42:01 [INFO] <Kooothor> hello
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:41:26 [INFO] CH: Running original command ----> /mb Hi
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:41:36 [INFO] CH: Running original command ----> /mb test
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:41:39 [INFO] CH: Running original command ----> /mb USE /mb now
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:41:40 [INFO] CH: Running original command ----> /mb test
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:41:44 [INFO] CH: Running original command ----> /mb testing
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:41:47 [INFO] CH: Running original command ----> /mb Yay
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:42:01 [INFO] CH: Running original command ----> /mb Oh thank god our long national nightmare is over!
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:42:18 [INFO] CH: Running original command ----> /mb no one will ever know it was me who thor'd delusionn hahaha
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:42:28 [INFO] CH: Running original command ----> /mb my god - THIS CHANGES EVERYTHIGN
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:42:47 [INFO] CH: Running original command ----> /mb XD
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:42:48 [INFO] CH: Running original command ----> /mb yep, thor works
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:42:55 [INFO] CH: Running original command ----> /mb killed me
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:44:52 [INFO] CH: Running original command ----> /mb testing!
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:45:48 [INFO] CH: Running original command ----> /mb the better broadcast is /mb, if you missed it
+/home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:48:18 [INFO] CH: Running original command ----> /mb mwahaha
+/home/phil/servers/c_logs/server-05-23-2011-01:04:05.log:2011-05-23 00:26:40 [INFO] buddyweed:/mb Did c45y get modded?
+/home/phil/servers/c_logs/server-05-23-2011-01:04:05.log:2011-05-23 00:26:40 [INFO] CH: Running original command ----> /mb Did c45y get modded?
+/home/phil/servers/c_logs/server-05-23-2011-01:04:05.log:2011-05-23 00:26:40 [INFO] [ModTRS] Command: /mod-broadcast Did c45y get modded?
+/home/phil/servers/c_logs/server-02-20-2011-10:05:51.log:2011-02-20 09:46:34 [INFO] [PLAYER_COMMAND] cmdrtebok: /msg Lord_Munkee you are a sexy beast
+/home/phil/servers/c_logs/server-02-20-2011-10:05:51.log:2011-02-20 09:46:59 [INFO] [PLAYER_COMMAND] Lord_Munkee: /msg cmdrtebok you have a beautiful penis
+/home/phil/servers/c_logs/server-02-20-2011-10:05:51.log:2011-02-20 09:47:15 [INFO] [PLAYER_COMMAND] golf1052: /msg cmd lolz
+/home/phil/servers/c_logs/server-02-19-2011-20:56:48.log:2011-02-19 20:55:02 [INFO] [PLAYER_COMMAND] Skuld: /r test
+/home/phil/servers/c_logs/server-02-19-2011-21:26:35.log:2011-02-19 21:26:00 [INFO] [PLAYER_COMMAND] rossberry: /r 
+/home/phil/servers/c_logs/server-02-20-2011-20:09:18.log:2011-02-20 19:27:47 [INFO] [PLAYER_COMMAND] golf1052: /r can u tell me?
+/home/phil/servers/c_logs/server-02-21-2011-02:04:25.log:2011-02-21 01:08:30 [INFO] [PLAYER_COMMAND] Skuld: /r ignore :)
+/home/phil/servers/c_logs/server-02-25-2011-16:55:59.log:2011-02-25 15:49:35 [INFO] [PLAYER_COMMAND] Elementridr: /r 35:5
+/home/phil/servers/c_logs/server-02-27-2011-18:42:46.log:2011-02-27 18:27:58 [INFO] [PLAYER_COMMAND] snarxx: /r 
+/home/phil/servers/c_logs/server-02-28-2011-16:00:31.log:2011-02-28 15:33:47 [INFO] [PLAYER_COMMAND] Sydtrack: /r test
+/home/phil/servers/c_logs/server-02-28-2011-16:00:31.log:2011-02-28 15:59:32 [INFO] [PLAYER_COMMAND] designerman: /r 
+/home/phil/servers/c_logs/server-03-03-2011-18:01:43.log:2011-03-03 17:04:41 [INFO] [PLAYER_COMMAND] Ribose: /r hi
+/home/phil/servers/c_logs/server-03-05-2011-02:07:51.log:2011-03-05 00:01:06 [INFO] [PLAYER_COMMAND] Crtbn: /r 
+/home/phil/servers/c_logs/server-03-06-2011-01:14:36.log:2011-03-05 22:17:22 [INFO] [PLAYER_COMMAND] vetuv: /r minecart
+/home/phil/servers/c_logs/server-03-07-2011-19:57:12.log:2011-03-07 17:12:58 [INFO] [PLAYER_COMMAND] Cyphus573: /r 
+/home/phil/servers/c_logs/server-03-08-2011-18:55:25.log:2011-03-08 14:10:19 [INFO] [PLAYER_COMMAND] nickeox: /r 

@@ -15,9 +15,26 @@ $outfile = $RESOURCE;
 my @loglist = <DATA>;
 close (DATA);
 $outfile =~ /(.+)(\.)(.+)/;
-open (OUT, ">> $1clean$2$3") or die "can't open file $!";
+open (OUT, "> $1clean$2$3") or die "can't open file $!";
 print "Output: $1clean$2$3\n";
 foreach $string (@loglist) {
+#CH: Running original command
+# remove? makes for a messy log
+
+#[PLAYER_COMMAND] golf1052: /msg cmd lolz
+	if ($string =~ m/(\/msg)\s(\S+)\s(.+)/) {
+		$string =~ s/(\/msg)\s(\S+)\s(.+)/$1 $2/;
+	}
+	if ($string =~ m/(\/r)\s(.+)/) {
+		$string =~ s/(\/r)\s(.+)/$1/;
+	}
+	if ($string =~ m/(\/mod-broadcast)(.+)/) {
+		$string =~ s/(\/mod-broadcast)(.+)/$1/;
+	}
+	if ($string =~ m/(\/mb)(.+)/) {
+		$string =~ s/(\/mb)(.+)/$1/;
+	}
+	
 	if ($string =~ m/(\d+)\.(\d+)\.(\d+)\.(\d+)/) {
 		$string =~ s/(\d+)\.(\d+)\.(\d+)\.(\d+)/$1\.$2\.###\.###/;
 	}
