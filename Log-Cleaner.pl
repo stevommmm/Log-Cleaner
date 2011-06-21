@@ -20,8 +20,6 @@ print "Output: $1clean$2$3\n";
 foreach $string (@loglist) {
 #CH: Running original command
 # remove? makes for a messy log
-
-#[PLAYER_COMMAND] golf1052: /msg cmd lolz
 	if ($string =~ m/(\/msg)\s(\S+)\s(.+)/) {
 		$string =~ s/(\/msg)\s(\S+)\s(.+)/$1 $2/;
 	}
@@ -34,7 +32,6 @@ foreach $string (@loglist) {
 	if ($string =~ m/(\/mb)(.+)/) {
 		$string =~ s/(\/mb)(.+)/$1/;
 	}
-	
 	if ($string =~ m/(\d+)\.(\d+)\.(\d+)\.(\d+)/) {
 		$string =~ s/(\d+)\.(\d+)\.(\d+)\.(\d+)/$1\.$2\.###\.###/;
 	}
