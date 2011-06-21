@@ -84,18 +84,19 @@
 /home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:19:40 [INFO] <ohblair> hello captslow
 /home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:20:50 [INFO] <ryanlaing> hello
 /home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:32:13 [INFO] <austin1812> hello :)
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:14 [INFO] therealduckie [/184.88.###.###:64842] logged in with entity id 464
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:15 [INFO] Frito_Bandito [/173.62.###.###:58870] logged in with entity id 592
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:15 [INFO] SimplyBarbaric [/150.250.###.###:52639] logged in with entity id 836
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:18 [INFO] Derkek [/68.99.###.###:56964] logged in with entity id 837
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:18 [INFO] jakemates [/68.5.###.###:34981] logged in with entity id 884
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:18 [INFO] golf1052 [/74.97.###.###:53140] logged in with entity id 885
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:21 [INFO] ultrafez [/78.86.###.###:64137] logged in with entity id 973
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:21 [INFO] forty_two [/60.229.###.###:56080] logged in with entity id 1017
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:22 [INFO] TheShinyHobbiest [/174.29.###.###:49774] logged in with entity id 1123
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:22 [INFO] rickfrothingham [/127.0.###.###:25442] logged in with entity id 1203
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:28 [INFO] seamore555 [/74.13.###.###:52714] logged in with entity id 1335
-/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:28 [INFO] Sninja13 [/174.60.###.###:49415] logged in with entity id 1336 
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 16:33:34 [INFO] therealduckie [/184.88.sATcHjNeidtzU.sAjs9SrhppQfE:64906] logged in with entity id 72368
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:14 [INFO] therealduckie [/184.88.sATcHjNeidtzU.sAjs9SrhppQfE:64842] logged in with entity id 464
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:15 [INFO] Frito_Bandito [/173.62.sAnQHz5yCyTp..sA5K3IbLMYcJE:58870] logged in with entity id 592
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:15 [INFO] SimplyBarbaric [/150.250.sAUvUVa/JKEfs.sA9CgLn0KHUP2:52639] logged in with entity id 836
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:18 [INFO] Derkek [/68.99.sAPqOIYkd5tEg.sA0SDWx1yPRQ.:56964] logged in with entity id 837
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:18 [INFO] jakemates [/68.5.sA7Wegkr2aIyk.sAJv4XlKYGvEo:34981] logged in with entity id 884
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:18 [INFO] golf1052 [/74.97.sABArCrVg8G7k.sAKboxu206a0.:53140] logged in with entity id 885
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:21 [INFO] ultrafez [/78.86.sAOF9qMRyR7Cc.sAznQ3xRa.TbU:64137] logged in with entity id 973
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:21 [INFO] forty_two [/60.229.sAnQHz5yCyTp..sAl6/GIY.PY4w:56080] logged in with entity id 1017
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:22 [INFO] TheShinyHobbiest [/174.29.sApzWBZVfhEsQ.sAQ7zl.1PnIEA:49774] logged in with entity id 1123
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:22 [INFO] rickfrothingham [/127.0.sAvZWnSszkov2.sAyvL1Kzuuyeg:25442] logged in with entity id 1203
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:28 [INFO] seamore555 [/74.13.sAtceX9lzoMCM.sAU37uIXM5rsY:52714] logged in with entity id 1335
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:28 [INFO] Sninja13 [/174.60.sAuRvgkxm3wFU.sAWt4QqyL2Rwc:49415] logged in with entity id 1336 
 /home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:42:01 [INFO] <Kooothor> hello
 /home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:41:26 [INFO] CH: Running original command ----> /mb
 /home/phil/servers/c_logs/server-04-23-2011-06:26:14.log:2011-04-23 00:41:36 [INFO] CH: Running original command ----> /mb

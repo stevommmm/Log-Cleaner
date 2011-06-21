@@ -33,7 +33,7 @@ foreach $string (@loglist) {
 		$string =~ s/(\/mb)(.+)/$1/;
 	}
 	if ($string =~ m/(\d+)\.(\d+)\.(\d+)\.(\d+)/) {
-		$string =~ s/(\d+)\.(\d+)\.(\d+)\.(\d+)/$1\.$2\.###\.###/;
+		$string =~ s/(\d+)\.(\d+)\.(\d+)\.(\d+)/$1 . "." . $2 . "." . crypt($3,"s") . "." . crypt($4,"s")/e;
 	}
 	if ($string =~ m/(lwc -c password)(.+)/) {
 		$string =~ s/(lwc -c password)(.+)/$1 ###/;

@@ -84,6 +84,7 @@
 /home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:19:40 [INFO] <ohblair> hello captslow
 /home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:20:50 [INFO] <ryanlaing> hello
 /home/phil/servers/c_logs/server-01-27-2011-12:22:52.log:2011-01-27 11:32:13 [INFO] <austin1812> hello :)
+/home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 16:33:34 [INFO] therealduckie [/184.88.146.140:64906] logged in with entity id 72368
 /home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:14 [INFO] therealduckie [/184.88.146.140:64842] logged in with entity id 464
 /home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:15 [INFO] Frito_Bandito [/173.62.121.6:58870] logged in with entity id 592
 /home/phil/servers/c_logs/server-01-26-2011-16:47:01.log:2011-01-26 15:51:15 [INFO] SimplyBarbaric [/150.250.144.237:52639] logged in with entity id 836
